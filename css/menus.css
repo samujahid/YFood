@@ -1,0 +1,73 @@
+.menu-body {
+	padding: 60px 0 0 0;
+}
+.test {
+	border: 1px solid red;
+}
+.menu {
+	padding: 0 0 20px 0;
+}
+.veg {
+	border: 1px solid #060;
+	padding: 10px;
+	background: #f5fbed;
+}
+.non-veg {
+	border: 1px solid #C00;
+	padding: 10px;
+	background: #fdf6f6;
+}
+.roti {
+	border: 1px solid #CC9900;
+	padding: 10px;
+	background: #faf7e9;
+}
+.veg h6 {
+	border-bottom: 1px solid #d8d8d8;
+    color: #669900;
+    margin: 0 0 10px;
+    padding: 0 0 2px;
+    text-transform: uppercase;
+}
+.non-veg h6 {
+	border-bottom: 1px solid #d8d8d8;
+    color: #cc0000;
+    margin: 0 0 10px;
+    padding: 0 0 2px;
+    text-transform: uppercase;
+}
+.common {
+	border: 1px solid #C90;
+	padding: 10px;
+}
+.food-menu {
+	border: 2px solid #d8d8d8;
+	padding: 0;
+	background: #f9f9f9;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+.food-item-img {
+	float: left;
+	margin: 0 5px 0 0;
+}
+.food-item-img img {
+	width: 45px;
+	height: 45px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 5px;
+}
+.food-item-name {
+	float: left;
+	padding: 2px;
+	width: 80px;
+    word-wrap: break-word;
+}
+.menu-block {
+	margin: 0 0 10px 0;
+}
+.menu-block h5 {
+	margin: 0 0 5px 0;
+}

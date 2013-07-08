@@ -1,0 +1,31 @@
+.i-plus-sign-alt {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f0fe');
+	font-family: FontAwesome;
+}
+.i-remove-sign:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f057');
+	font-family: FontAwesome;
+}
+.i-inr:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f156');
+	font-family: FontAwesome;
+}
+.i-time:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f017');
+	font-family: FontAwesome;
+}
+.i-shopping-cart:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f07a');
+	font-family: FontAwesome;
+	font-size: 25px;
+    margin: 0 5px 0 0;
+}
+.i-truck:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f0d1');
+	font-family: FontAwesome;
+}
+.i-food:before {
+	*zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '\f0f5');
+	font-family: FontAwesome;
+}
+

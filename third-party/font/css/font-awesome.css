@@ -1,0 +1,46 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../font/fontawesome-webfont.eot?v=3.2.1');
+	src: url('../font/fontawesome-webfont.woff?v=3.2.1') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="i-"], [class*=" i-"] {
+	font-family: FontAwesome;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: inherit;
+	-webkit-font-smoothing: antialiased;
+	*margin-right: .3em;
+}
+[class^="i-"]:before, [class*=" i-"]:before {
+	text-decoration: inherit;
+	display: inline-block;
+	speak: none;
+}
+.i-plus-sign-alt:before {
+	content: "\f0fe";
+}
+.i-remove-sign:before {
+	content: "\f057";
+}
+.i-inr:before {
+	content: "\f156";
+}
+.i-time:before {
+	content: "\f017";
+}
+.i-shopping-cart:before {
+	content: "\f07a";
+	font-size: 25px;
+    margin: 0 5px 0 0;
+}
+.i-truck:before {
+	content: "\f0d1";
+}
+.i-food:before {
+	content: "\f0f5";
+}
+.i-cogs:before {
+	content: "\f085";
+}
